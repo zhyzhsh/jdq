@@ -1,7 +1,0 @@
-1. 在桌面git目录，右键点击git bash here
-2. git add .
-3. git commit -m "fw"
-4. git push origin master
-
-上传后的页面地址：
-https://zhyzhsh.github.io/jdq/htm/index.htm
